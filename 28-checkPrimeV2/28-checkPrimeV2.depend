@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670746750 source:d:\learning\codec_adiep\codec\28-checkprimev2\main.c
+	<stdio.h>
+	<stdlib.h>
+

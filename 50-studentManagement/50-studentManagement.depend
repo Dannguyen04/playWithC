@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677004032 source:d:\codeblock\codec_adiep\codec\50-studentmanagement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

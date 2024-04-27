@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676353430 source:d:\codeblock\codec_adiep\codec\47-stringbase4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

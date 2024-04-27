@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668330834 source:d:\learning\codec_adiep\codec\02-ifelse\main.c
+	<stdio.h>
+	<stdlib.h>
+

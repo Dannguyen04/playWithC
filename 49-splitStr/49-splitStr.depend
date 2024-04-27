@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676370275 source:d:\codeblock\codec_adiep\codec\49-splitstr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
